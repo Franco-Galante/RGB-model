@@ -1,0 +1,6 @@
+dask==2024.6.1
+dask-expr==1.1.4
+dask-jobqueue==0.8.5
+dask-labextension==7.0.0
+jupyterlab==4.2.3
+more-itertools==10.1.0

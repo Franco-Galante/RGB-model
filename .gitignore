@@ -1,0 +1,14 @@
+model_simulation/gptsim
+stack_exchange_analysis/.load/
+stack_exchange_analysis/.dask/
+stack_exchange_analysis/data/
+stack_exchange_analysis/.ipynb_checkpoints/
+**.log
+**.csv
+**.zip
+stack_exchange_analysis/dask-jobqueue-logs/
+stack_exchange_analysis/distrib/
+stack_exchange_analysis/info/
+stack_exchange_analysis/results/
+stack_exchange_analysis/figs/
+stack_exchange_analysis/src/__pycache__/
